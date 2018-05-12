@@ -1,2 +1,2 @@
-# DataScience-Repo
-This is a data science repo 
+# DataScientist-Repo
+This is a DataScientist repo 
